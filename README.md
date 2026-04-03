@@ -125,6 +125,10 @@ The app will open at [http://localhost:3000](http://localhost:3000) automaticall
 npm run build
 ```
 
+## 🌐 Live Demo
+
+👉 (https://finance-dashboard5.netlify.app/)
+
 The optimized build will be in the `/build` folder.
 
 ---
