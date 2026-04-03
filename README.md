@@ -75,7 +75,7 @@ finance-dashboard/
 │   │   └── helpers.js                  # formatCurrency, filterTransactions, export
 │   │
 │   ├── App.jsx                         # Root component + dark mode effect
-│   ├── index.js                        # React DOM entry
+│   ├── main.jsx                        # React DOM entry
 │   └── index.css                       # Tailwind directives + CSS variables
 │
 ├── tailwind.config.js                  # Custom colors, fonts, animations
